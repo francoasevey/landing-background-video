@@ -1,4 +1,5 @@
 # landing-background-video
 this is a CSS exercise for a background video
-![pngwing com](https://user-images.githubusercontent.com/91487119/219516195-f99a4aae-23d1-41ce-803b-aa7fe3e8c879.png)
+![fondo](https://user-images.githubusercontent.com/91487119/219516340-d0024f33-1766-4c0c-9651-44d4155ed85b.png)
+
 deploy: https://landing-background-video.vercel.app/
